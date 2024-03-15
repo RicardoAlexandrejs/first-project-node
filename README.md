@@ -49,7 +49,7 @@ Essas quatro operações formam a base para a manipulação de dados em sistemas
 * Crie alguns usuários na rota de POST (create user): `Alterando o nome e a idade e clique no botão SEND (enviar)`
 ![insomnia-post](https://github.com/RicardoAlexandrejs/first-project-node/assets/158041416/8bd8c618-8395-4b40-85d7-b85a87f83245)
 
-* Após a criação acesse a rota de GET (users) e clique no botão botão SEND (enviar) para visualizar os usuários criados:
+* Após a criação acesse a rota de GET (users) e clique no botão SEND (enviar) para visualizar os usuários criados:
   ![insomnia-get](https://github.com/RicardoAlexandrejs/first-project-node/assets/158041416/b9228305-7191-4014-bb70-37c961add96b)
 
 * Para atualizar alguma informação copie um ID gerado na rota GET e depois acesse a rota de PUT (update):<br>
