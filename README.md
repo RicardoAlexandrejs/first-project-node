@@ -18,7 +18,7 @@ Essas quatro operações formam a base para a manipulação de dados em sistemas
 <hr>
 <h3><p>Utilizado para o desenvolvimento da primeira aplicação:</p></h3>
 <table>
-  <tr>
+  <tr align="center">
     <td><img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript"></td>
     <td><img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt = "node"></td>
     <td><img src = "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt = "express"></td>
@@ -33,6 +33,7 @@ Essas quatro operações formam a base para a manipulação de dados em sistemas
    
   </tr>
 </table>
-<br>
+<hr>
 
-<h1>Primeira Aplicação em NODE.js 💻</h1>
+<h1>Start / Inicialização 💻</h1>
+
