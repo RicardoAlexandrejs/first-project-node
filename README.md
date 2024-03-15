@@ -36,4 +36,23 @@ Essas quatro operações formam a base para a manipulação de dados em sistemas
 <hr>
 
 <h1>Start / Inicialização 💻</h1>
+## <h4>Instalação</h4>
 
+* Clone o repositório: `git clone [https://github.com/RicardoAlexandrejs/first-project-node]`
+* Ou baixe os arquivos para seu Desktop
+* Acesse o diretório do projeto: `first-project-node`
+* Instale as dependências: `npm install`
+* Inicie o servidor: `npm run dev` - Foi inserido um script no package.json para utilizar o nodemon <h6>( O nodemon é um utilitário que monitora as mudanças nos arquivos do seu projeto e reinicia automaticamente o servidor Node. js quando necessário. Assim, você não precisa parar e iniciar o servidor manualmente a cada modificação)</h6>
+* Crie as rotas no insomnia como mostrado abaixo:
+  ![insomnia](https://github.com/RicardoAlexandrejs/first-project-node/assets/158041416/b8c27793-a688-4033-9d53-45965b27eb36)
+  <br>
+* Crie alguns usuários na rota de POST (create user): `Alterando o nome e a idade e clique no botão SEND (enviar)`
+![insomnia-post](https://github.com/RicardoAlexandrejs/first-project-node/assets/158041416/8bd8c618-8395-4b40-85d7-b85a87f83245)
+
+* Após a criação acesse a rota de GET (users) e clique no botão botão SEND (enviar) para visualizar os usuários criados:
+  ![insomnia-get](https://github.com/RicardoAlexandrejs/first-project-node/assets/158041416/b9228305-7191-4014-bb70-37c961add96b)
+
+<hr>
+## <h4>About / Quem sou</h4>
+
+Ricardo Alexandre js - https://github.com/RicardoAlexandrejs
