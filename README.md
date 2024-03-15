@@ -52,7 +52,20 @@ Essas quatro operações formam a base para a manipulação de dados em sistemas
 * Após a criação acesse a rota de GET (users) e clique no botão botão SEND (enviar) para visualizar os usuários criados:
   ![insomnia-get](https://github.com/RicardoAlexandrejs/first-project-node/assets/158041416/b9228305-7191-4014-bb70-37c961add96b)
 
+* Para atualizar alguma informação copie um ID gerado na rota GET e depois acesse a rota de PUT (update):<br>
+01 - cole o ID copiado no endereço da rota.<br>
+02 - Digita as novas informações para atualizar<br>
+e clique no botão botão SEND (enviar) para visualizar o usuário atualizado<br>
+![insomnia-put](https://github.com/RicardoAlexandrejs/first-project-node/assets/158041416/6ecbcc03-06ac-4c36-bf98-d2096348266a)
+
+* Para Deletar alguma informação copie um ID gerado na rota GET e depois acesse a rota de DEL(delete):<br>
+01 - cole o ID copiado no endereço da rota.<br>
+e clique no botão botão SEND (enviar) para deletar o usuário <br>
+02 - volte na rota de GET(users) clique em enviar e confirme se o usuário foi deletado.
+![insomnia-delete](https://github.com/RicardoAlexandrejs/first-project-node/assets/158041416/a40312a6-fb00-4a39-b81f-d4cdebc8f635)
 <hr>
+Obrigado por visualizar até aqui!!!
+
 ## <h4>About / Quem sou</h4>
 
 Ricardo Alexandre js - https://github.com/RicardoAlexandrejs
